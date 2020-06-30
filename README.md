@@ -1,0 +1,2 @@
+# core
+run-bhyve core
