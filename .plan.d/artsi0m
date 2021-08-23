@@ -1,0 +1,7 @@
+[1]: Generate payload [done]
+[2]: Create vm [done]
+[3]: Acquire cid []
+[4]: Using cid to access information []
+[5]: Login using ssh string []
+[6]: Delete virtual machine with CentOS []
+[7]: Automate all steps with python3 [in progress]
